@@ -29,8 +29,7 @@ This project is a Python script that allows users to execute terminal commands s
 
 **Author:** NicSoarez! 🚀
 
-*(PT/BR)*
-# secure-comand-script
+# secure-comand-script *(PT/BR)*
 
 ## 🚀 Comando Seguro - Execução Segura de Comandos no Terminal
 
